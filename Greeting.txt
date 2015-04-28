@@ -1,0 +1,6 @@
+Rearrange the blocks in order to leave one on the switch <br>
+on the center of the platform. <br><br>
+
+- Navigate with WASD controls. <br>
+- Press "Shift" + "LMB" to push a block. <br>
+- Press "Shift" + "LMB" on the turnstyle switch to reset the level. 
